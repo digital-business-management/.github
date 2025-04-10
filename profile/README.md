@@ -3,6 +3,7 @@
 This GitHub organization is dedicated to the academic staff and professors of the Digital Business Management department at Hochschule Pforzheim.
 
 ## Purpose
+- Share common information about university, faculty and organizational processes
 - Share teaching materials and code samples
 - Collaborate on internal projects and research
 - Provide infrastructure for cross-course support
